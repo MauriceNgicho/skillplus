@@ -2,10 +2,11 @@
 
 A modern, full-stack Learning Management System (LMS) built for corporate training with multi-tenant architecture, role-based access control, and comprehensive course management capabilities.
 
-Python
-Flask
-React
-PostgreSQL
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Flask](https://img.shields.io/badge/Flask-3.0-green)
+![React](https://img.shields.io/badge/React-18.0-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ## 🎯 Overview
 
@@ -540,8 +541,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Maurice Ngicho**
-- GitHub: https://github.com/MauriceNgicho
-- LinkedIn: https://www.linkedin.com/in/maurice-ngicho-069654234/
+- GitHub: [@MauriceNgicho](https://github.com/MauriceNgicho)
+- LinkedIn: [Maurice Ngicho](https://www.linkedin.com/in/maurice-ngicho-069654234/)
 - Email: mrcngicho@gmail.com
 
 ## 🙏 Acknowledgments
